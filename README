@@ -1,0 +1,4 @@
+Instructions:
+
+To create a makefile, run `coq_makefile -f _CoqProject -o Makefile`.
+Then, run `make` as normal.

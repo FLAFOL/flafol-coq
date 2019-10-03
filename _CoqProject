@@ -1,0 +1,24 @@
+-R . FLAFOL
+Base/Arith.v
+Base/Lists.v
+Base/Permutation.v
+Base/Either.v
+Base/Option.v
+Tactics/Equality.v
+Tactics/CutTact.v
+Tactics/TermEquality.v
+Tactics/FormulaEquality.v
+Tactics/TermHasSortNoFormulas.v
+Tactics/WellFormedFormulaNoProofs.v
+Logic/Term.v
+Logic/Formula.v
+Logic/SignedSubformula.v
+Logic/SignedSubformulaProperty.v
+Logic/Sequent.v
+Logic/Simulation.v
+Logic/NormalForm.v
+Logic/Consistency.v
+Logic/CompatibleSupercontext.v
+Logic/Cut.v
+Security/Noninterference.v
+Security/Speaksfor.v
